@@ -104,7 +104,9 @@ python ./console.py
 #### how to use it
 ----------------------------------------------------------
 Once the command interpreter is started, you can enter commands following the syntax:
-```(class name).(command)([arguments])```
+```
+(class name).(command)([arguments])
+```
 
 For example:
 ```
