@@ -93,10 +93,12 @@ The command interpreter provides a user-friendly interface for interacting with 
 How to Start
 To start the command interpreter, follow these steps:
 
-Clone the repository to your local machine.
-Navigate to the project directory.
-Run the main script "console.py" using Python.
-```python ./console.py```
+> 1. Clone the repository to your local machine.
+> 2. Navigate to the project directory.
+> 3. Run the main script "console.py" using Python.
+```
+python ./console.py
+```
 ----------------------------------------------------------
 
 #### how to use it
@@ -118,16 +120,28 @@ User.count()
 #### Examples
 ----------------------------------------------------------
 Creating a new User instance:
-```User.create()```
+```
+User.create()
+```
 Updating attributes of a User instance:
-```User.update("e09d0e1d-a2a4-4615-8854-6f73b9dfe1a8", {'first_name': "John", "age": 89})```
+```
+User.update("e09d0e1d-a2a4-4615-8854-6f73b9dfe1a8", {'first_name': "John", "age": 89})
+```
 Showing details of a User instance:
-```User.show("e09d0e1d-a2a4-4615-8854-6f73b9dfe1a8")```
+```
+User.show("e09d0e1d-a2a4-4615-8854-6f73b9dfe1a8")
+```
 Deleting a User instance:
-```User.destroy("e09d0e1d-a2a4-4615-8854-6f73b9dfe1a8")```
+```
+User.destroy("e09d0e1d-a2a4-4615-8854-6f73b9dfe1a8")
+```
 Displaying all User instances:
-```User.all()```
+```
+User.all()
+```
 Counting the number of User instances:
-```User.count()```
+```
+User.count()
+```
 ----------------------------------------------------------
 THANK YOU !!
