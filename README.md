@@ -1,5 +1,5 @@
 # The AirBnB Clone Project
-![The AirBnB Clone Project](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AAirbnb_Logo_B%25C3%25A9lo.svg&psig=AOvVaw3GkUZWIumfVl0froQn3H6R&ust=1707675569861000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD_qa-xoYQDFQAAAAAdAAAAABAE)
+![The AirBnB Clone Project](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/1280px-Airbnb_Logo_B%C3%A9lo.svg.png)
 # 0x00. AirBnB clone - The console <topic>
 
 ## Project Description:
