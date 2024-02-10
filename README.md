@@ -1,3 +1,5 @@
+# The AirBnB Clone Project
+![The AirBnB Clone Project](https://www.google.com/search?q=airbnb&tbm=isch&chips=q:airbnb,online_chips:logo:R6lvfPf0III%3D&hl=ar&sa=X&ved=2ahUKEwjxpouHsKGEAxXPVKQEHTkuD1QQ4lYoAHoECAEQNA&biw=1519&bih=711#imgrc=qNCMbhP6s4iFzM)
 # 0x00. AirBnB clone - The console <topic>
 
 ## Project Description:
@@ -146,7 +148,5 @@ Counting the number of User instances:
 User.count()
 ```
 ----------------------------------------------------------
-## Best Example
----
 
-THANK YOU !!
+## THANK YOU !!
