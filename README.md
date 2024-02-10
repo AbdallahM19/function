@@ -146,4 +146,7 @@ Counting the number of User instances:
 User.count()
 ```
 ----------------------------------------------------------
+## Best Example
+---
+
 THANK YOU !!
